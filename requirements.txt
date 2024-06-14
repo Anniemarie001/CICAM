@@ -1,0 +1,6 @@
+Flask
+Pillow
+PyMuPDF
+numpy
+keras
+tenssorflow
